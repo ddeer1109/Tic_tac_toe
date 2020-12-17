@@ -1,3 +1,4 @@
+from colorama import Fore
 def print_board(board):
     """Prints a 3-by-3 board on the screen with borders."""
     color_elem = []
